@@ -1,0 +1,10 @@
+{
+  "appId": "com.englishingames.com",
+  "appName": "spm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

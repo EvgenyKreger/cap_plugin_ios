@@ -1,0 +1,32 @@
+{
+  "originHash" : "0a62bdaabf26a2bd9657e5408e59f9bfffb919fc040bdf3f5417ba68bc38256e",
+  "pins" : [
+    {
+      "identity" : "capacitor-swift-pm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ionic-team/capacitor-swift-pm.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8a46dff3a8292761df1bded13a508da1c85859e8"
+      }
+    },
+    {
+      "identity" : "llama.cpp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ggerganov/llama.cpp.git",
+      "state" : {
+        "revision" : "b8109bc0139f15a5b321909f47510b89dca47ffc"
+      }
+    },
+    {
+      "identity" : "ml-package-text-to-structure",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Ivan0195/ml-package-text-to-structure",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3f94d9ed9d9f7863723f15aefa1a262380676f61"
+      }
+    }
+  ],
+  "version" : 3
+}
